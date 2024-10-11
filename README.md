@@ -13,7 +13,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad de la Sierra Juarez](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unsij.edu.mx/&ved=2ahUKEwjmuOGisICJAxUVM9AFHb5cAEYQFnoECAoQAQ&usg=AOvVaw2KCtlWl8tkE_EpH88jZBtt)
 
-- 🌱 I am currently in the race **"Informatica"**
+- 🌱 I am currently in the Degree in  **"Computer Science"**
 
 - 🏙 Creator of the most beautiful codes
 
