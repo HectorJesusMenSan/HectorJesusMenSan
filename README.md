@@ -32,7 +32,7 @@
 <h3 align="leftr">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,py,c" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,py,c,html,css,java" />
   </a>
 </p>
 
