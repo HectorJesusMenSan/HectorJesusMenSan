@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="50%">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HectorJesusMenSan&label=Profile%20views&color=0e75b6&style=flat" alt="HectorJesusMenSan" /> </p>
